@@ -13,14 +13,19 @@ Category.init(
       primaryKey: true,
       autoIncrement: true
     },
+  
+  category_name:{
+    type: DataTypes.STRING,
+    allowNull: false,
   },
-  {
-    sequelize,
-    
-    freezeTableName: true,
-    underscored: true,
-    modelName: 'category',
-  }
+},
+{
+  sequelize, 
+  timestamps: false,
+  freezeTableName: true,
+  underscored: true,
+  modelName: 'category',
+}
 );
 
 module.exports = Category;
