@@ -6,9 +6,21 @@
    This app stores and organices data for E-Commerce website. This application uses Express.js, API and Sequalize to interact with a MySQL database which will allow a devoloper to create, read, update, and delete categories, tags and productos for their online store.
 
    Link to demo video: https://drive.google.com/file/d/1cUT9L8-MgMVMsf-ZtneuZj-mbmJk_E22/view
+   
 
 ## Screenshot
-![Profile Generator](./)
+The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia:
+![E-Commerce-Back-End](./assets/images/Ecommerce-B-E.gif)
+
+
+
+The following animation shows the application's GET routes to return a single category, a single product, and a single tag being tested in Insomnia:
+![E-Commerce-Back-End](./assets/images/Ecommerce-B-E-2.gif)
+
+
+The following animation shows the application's POST, PUT, and DELETE routes for categories being tested in Insomnia:
+![E-Commerce-Back-End](./assets/images/Ecommerce-B-E-3gif.gif)
+
 
 ## Table of Contents
   - [Description](#Description)
