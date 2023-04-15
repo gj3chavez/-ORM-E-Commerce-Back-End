@@ -5,7 +5,7 @@
 ## Description
    This app stores and organices data for E-Commerce website. This application uses Express.js, API and Sequalize to interact with a MySQL database which will allow a devoloper to create, read, update, and delete categories, tags and productos for their online store.
 
-   Link to demo video: 
+   Link to demo video: https://drive.google.com/file/d/1cUT9L8-MgMVMsf-ZtneuZj-mbmJk_E22/view
 
 ## Screenshot
 ![Profile Generator](./)
